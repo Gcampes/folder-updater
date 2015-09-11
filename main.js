@@ -1,3 +1,5 @@
+//electron-packager ../folder-updater FolderUpdater --platform=all --arch=all --version=0.32.2
+
 var app = require('app');  // Module to control application life.
 var BrowserWindow = require('browser-window');  // Module to create native browser window.
 
